@@ -1,0 +1,90 @@
+h2 {
+	font-family: 'Caveat';
+	font-size: 30px;
+}
+
+h3 {
+	color: black;
+	font-family: 'Montserrat';
+	font-weight: bold;
+	font-weight: 900;
+}
+
+ul {
+	list-style-type: none;
+}
+
+body {
+  	max-width: 1420px;
+  	max-height: 1000px;
+ 	margin: 0;
+  	padding:  0; 
+}
+
+.logo {
+	width: 45px;
+}
+
+li a {
+	text-decoration: none;
+	color: white;
+	margin-left: 50px;
+}
+
+li a:hover {
+    color: yellow;
+}
+
+ ul li {
+ 	display: inline;
+ 	margin: 0;
+  	margin-right: 5px;
+  	padding-left: 0;
+  	list-style: none;
+  	float: right;
+  	height: 60px;
+  	line-height: 45px;
+  	text-align: right;
+  	font-family: 'Montserrat';
+  	font-size: 18px;
+ }
+
+.photo { 
+	margin-top: 50px;
+	padding: 1px;
+	border-radius: 4px;
+  	width: 300px;
+  	margin-left: 150px;
+}
+
+#shadow {
+	filter: drop-shadow(4px 4px 1px);
+}
+
+.text {
+	padding: 100px;
+}
+
+button {
+	margin-right: 20px;
+	font-family: 'Montserrat' bold ;
+}
+
+button a {
+	text-decoration: none;
+	color: white;
+}
+
+button a:hover {
+	color: yellow;
+}
+
+.massmed {
+	margin-left: 260px;
+	margin-top: 250px;	
+}
+
+a {
+ 	display: block;
+	margin-top: 5px;
+}
